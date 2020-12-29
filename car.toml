@@ -1,0 +1,15 @@
+title = "Car Example"
+
+# This is the class diagram
+# [car]
+# make = "String"
+# wheels = "Integer"
+# doors = "Integer"
+# cylinders = "Integer"
+
+# This is the usable class
+[car]
+make = "Subaru"
+wheels = 4
+doors = 4
+cylinders = 4
